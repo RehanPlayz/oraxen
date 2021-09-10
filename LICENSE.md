@@ -11,7 +11,7 @@ by the Copyright Holder, and derivatives of that collection of files created thr
 
 "Copyright Holder" is whoever is named in the copyright or copyrights for the package.
 
-"You" is you, if you're thinking about copying or distributing this Package.
+"You" are you, if you're thinking about copying or distributing this Package.
 
 
 ## Copyright (C) 2019, 2020 Marchand Thomas
